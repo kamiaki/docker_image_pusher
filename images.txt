@@ -1,1 +1,1 @@
-ghcr.io/openhands/openhands:latest
+ghcr.io/openhands/agent-server:1.15.0-python

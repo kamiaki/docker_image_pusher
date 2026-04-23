@@ -1,1 +1,2 @@
-ghcr.io/openhands/agent-server:1.15.0-python
+docker.io/library/node:25.9-trixie-slim
+docker.io/library/python:3.13.7-slim-trixie

@@ -1,1 +1,1 @@
-ghcr.io/openhands/openhands:latest
+docker.all-hands.dev/all-hands-ai/runtime:0.13-nikolaik

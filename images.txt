@@ -1,1 +1,3 @@
 openrct2/openrct2:latest
+registry.gitlab.com/minetest/minetest/server:latest
+browserquest/browserquest:latest

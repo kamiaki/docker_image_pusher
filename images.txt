@@ -1,1 +1,1 @@
-ryshe/terraria:vanilla-latest
+openrct2/openrct2:latest

@@ -1,1 +1,1 @@
-openrct2/openrct2:latest
+openrct2/openrct2:64bit-only

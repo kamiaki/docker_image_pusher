@@ -1,1 +1,1 @@
-coloradostark/browserquest
+openrct2/openrct2:latest

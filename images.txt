@@ -1,1 +1,1 @@
-kasmweb/minetest:1.18.0
+lscr.io/linuxserver/luanti:latest

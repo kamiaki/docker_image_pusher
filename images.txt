@@ -1,1 +1,1 @@
-kaetram/kaetram:latest
+kasmweb/minetest:1.18.0

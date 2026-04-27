@@ -1,1 +1,1 @@
-lscr.io/linuxserver/luanti:latest
+kaetram/kaetram:latest
